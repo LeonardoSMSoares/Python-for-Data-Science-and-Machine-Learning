@@ -1,5 +1,5 @@
 # Python for Data Science and Machine Learning
-Jose Portilla Bootcamp.
+Jose Portilla's Bootcamp.
 
 Topics:
 
