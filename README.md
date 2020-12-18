@@ -1,7 +1,7 @@
 # Python for Data Science and Machine Learning
 Jose Portilla Bootcamp.
 
-How to program with Python, how to create amazing data visualizations, and how to use Machine Learning with Python! Here a just a few of the topics we will be learning:
+Topics:
 
 * Programming with Python
 
